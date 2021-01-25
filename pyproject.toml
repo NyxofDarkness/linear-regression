@@ -6,6 +6,9 @@ authors = ["NyxofDarkness <ibelieve.as@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyterlab = "^3.0.5"
+pandas = "^1.2.1"
+
 
 [tool.poetry.dev-dependencies]
 
